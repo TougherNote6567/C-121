@@ -1,0 +1,38 @@
+body{
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#HAY{
+    background-color:white;
+    border-radius: 15px;
+    color: black;
+    float:none;
+    padding:2.5px;
+    margin-bottom:15px;
+}
+
+#YAY{
+    width:100%;
+    padding-bottom: 10px;
+    position:fixed;
+    top:0px;
+}
+
+#PC{
+white-space:pre-line;
+
+}
+
+canvas{
+   border-radius: 5px;
+   background-color: white; 
+   margin-top:100px;
+   margin-left:275px;
+}
+
+p{
+    margin-top:250px;
+}
+
